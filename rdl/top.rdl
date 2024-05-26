@@ -1,0 +1,5 @@
+addrmap top {
+    reg {
+        field {} reserved;
+    } top_reg;
+};
